@@ -1,0 +1,3 @@
+SCM 519 Homework
+write report
+Finish python lesson 9
